@@ -28,28 +28,11 @@ Implement authentication (Login/Signup) to sync data across devices.
 
 Enhance UI/UX for a seamless user experience.
 
-📂 Setup & Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/CopyToApply.git
-
-Navigate to the project directory:
-
-cd CopyToApply
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm start
-
-💡 Contributing
-
-Feel free to fork this repository and submit pull requests for improvements!
-
 📄 License
 
 This project is open-source and available under the MIT License.
+
+Snapshots:
+![image](https://github.com/user-attachments/assets/a1eb1767-8b74-4f25-a7c4-8142ee4b610f)
+
+
